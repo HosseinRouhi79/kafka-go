@@ -15,13 +15,13 @@ func main() {
 	var logger = logger.Logger()
 	r := kafka.NewReader(kafka.ReaderConfig{
 		Brokers:   []string{"localhost:9092"}, //we can read from many brokers here
-		Topic:     "second-topic",
+		Topic:     "first-topic",
 		Partition: 0,
 		MaxBytes:  10e6,
 	})
 	logger.Info().Msg("----------starting to read from kafka topic----------")
 
-	for i := 0; i < 30 ; i++ {
+	for {
 		m, err := r.ReadMessage(context.Background())
 		if err != nil {
 			break

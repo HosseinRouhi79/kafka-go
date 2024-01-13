@@ -150,3 +150,51 @@
 {"level":"info","AppName":"MyApp","time":"2024-01-13T08:22:06Z","message":"value1"}
 {"level":"info","AppName":"MyApp","time":"2024-01-13T08:22:06Z","message":"value2"}
 {"level":"info","AppName":"MyApp","time":"2024-01-13T08:22:06Z","message":"value3"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:29:16Z","message":"----------starting to read from kafka topic----------"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:29:16Z","message":"test"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:29:16Z","message":"test2"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:29:16Z","message":"the message from kafka producer in golang"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:29:16Z","message":"test"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:29:16Z","message":"the message from kafka producer in golang"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:29:16Z","message":"test"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:29:16Z","message":"test3"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:29:16Z","message":"the message from kafka producer in golang"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:29:16Z","message":"u"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:29:16Z","message":"test test"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:29:16Z","message":"p"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:30:04Z","message":"----------starting to read from kafka topic----------"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:30:05Z","message":"test"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:30:05Z","message":"test2"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:30:05Z","message":"the message from kafka producer in golang"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:30:05Z","message":"test"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:30:05Z","message":"the message from kafka producer in golang"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:30:05Z","message":"test"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:30:05Z","message":"test3"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:30:05Z","message":"the message from kafka producer in golang"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:30:05Z","message":"u"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:30:05Z","message":"test test"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:30:05Z","message":"p"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:30:50Z","message":"----------starting to read from kafka topic----------"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:30:50Z","message":"test"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:30:50Z","message":"test2"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:30:50Z","message":"the message from kafka producer in golang"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:30:50Z","message":"test"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:30:50Z","message":"the message from kafka producer in golang"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:30:50Z","message":"test"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:30:50Z","message":"test3"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:30:50Z","message":"the message from kafka producer in golang"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:30:50Z","message":"u"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:30:50Z","message":"test test"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:30:50Z","message":"p"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:31:43Z","message":"----------starting to read from kafka topic----------"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:31:43Z","message":"test"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:31:43Z","message":"test2"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:31:43Z","message":"the message from kafka producer in golang"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:31:43Z","message":"test"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:31:43Z","message":"the message from kafka producer in golang"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:31:43Z","message":"test"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:31:43Z","message":"test3"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:31:43Z","message":"the message from kafka producer in golang"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:31:43Z","message":"u"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:31:43Z","message":"test test"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:31:43Z","message":"p"}
