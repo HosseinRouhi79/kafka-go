@@ -15,8 +15,8 @@ func main() {
 	var logger = logger.Logger()
 	r := kafka.NewReader(kafka.ReaderConfig{
 		Brokers:   []string{"localhost:9092"}, //we can read from many brokers here
-		Topic:     "first-topic",
-		Partition: 0,
+		Topic:     "event-stream",
+		Partition: 4,
 		MaxBytes:  10e6,
 	})
 	logger.Info().Msg("----------starting to read from kafka topic----------")

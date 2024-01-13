@@ -12,18 +12,18 @@ func main() {
 
 	w := kafka.Writer{
 		Addr:     kafka.TCP("localhost:9092", "localhost:9093", "localhost:9094"),
-		Balancer: &kafka.LeastBytes{},
+		Balancer: &kafka.CRC32Balancer{},
 	}
 	messages := []kafka.Message{
 		{
 			Topic: "first-topic",
-			Key:   []byte("test first test"),
-			Value: []byte("value first value"),
+			Key:   []byte("test"),
+			Value: []byte("value"),
 		},
 		{
-			Topic: "third-topic", // it creates a new topic if it does not exist
-			Key:   []byte("test key"),
-			Value: []byte("test value"),
+			Topic: "event-stream",
+			Key:   []byte("test"),
+			Value: []byte("value"),
 		},
 	}
 	for i := 0; i < len(messages); i++ {
