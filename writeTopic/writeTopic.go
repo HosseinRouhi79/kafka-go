@@ -22,7 +22,7 @@ func main() {
 		},
 		{
 			Topic: "event-stream",
-			Key:   []byte("test"),
+			Key:   []byte("test2"),
 			Value: []byte("value"),
 		},
 	}

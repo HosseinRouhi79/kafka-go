@@ -529,3 +529,24 @@
 {"level":"info","AppName":"MyApp","time":"2024-01-13T10:30:22Z","message":"----------starting to read from kafka topic----------"}
 {"level":"info","AppName":"MyApp","time":"2024-01-13T10:30:38Z","message":"----------starting to read from kafka topic----------"}
 {"level":"info","AppName":"MyApp","time":"2024-01-13T10:30:38Z","message":"value"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T10:34:12Z","message":"----------starting to read from kafka topic----------"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T10:34:12Z","message":"value"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T10:34:12Z","message":"value"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T10:34:46Z","message":"----------starting to read from kafka topic----------"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T10:35:00Z","message":"----------starting to read from kafka topic----------"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T10:35:17Z","message":"----------starting to read from kafka topic----------"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T10:35:17Z","message":"value"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T10:35:17Z","message":"value"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T10:35:50Z","message":"----------starting to read from kafka topic----------"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T10:35:50Z","message":"value"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T10:35:50Z","message":"value"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T10:36:06Z","message":"----------starting to read from kafka topic----------"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T10:36:06Z","message":"value"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T10:36:17Z","message":"----------starting to read from kafka topic----------"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T10:36:45Z","message":"----------starting to read from kafka topic----------"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T10:36:45Z","message":"value"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T10:36:45Z","message":"value"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T10:46:25Z","message":"----------starting to read from kafka topic----------"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T10:46:26Z","message":"value"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T10:46:26Z","message":"value"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T10:46:26Z","message":"value"}
