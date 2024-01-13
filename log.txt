@@ -113,3 +113,40 @@
 {"level":"info","AppName":"MyApp","time":"2024-01-13T07:34:03Z","message":"test test"}
 {"level":"info","AppName":"MyApp","time":"2024-01-13T07:34:03Z","message":"p"}
 {"level":"info","AppName":"MyApp","time":"2024-01-13T07:34:12Z","message":"----------finished reading from kafka topic----------"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:12:58Z","message":"----------starting to read from kafka topic----------"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:12:58Z","message":"value1"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:12:58Z","message":"value2"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:12:58Z","message":"value3"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:12:58Z","message":"value1"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:12:58Z","message":"value2"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:12:58Z","message":"value3"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:13:48Z","message":"----------starting to read from kafka topic----------"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:13:50Z","message":"----------finished reading from kafka topic----------"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:16:11Z","message":"----------starting to read from kafka topic----------"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:16:12Z","message":"----------finished reading from kafka topic----------"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:16:34Z","message":"----------starting to read from kafka topic----------"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:16:34Z","message":"value1"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:16:34Z","message":"value2"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:16:34Z","message":"value3"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:16:34Z","message":"value1"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:16:34Z","message":"value2"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:16:34Z","message":"value3"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:16:34Z","message":"value1"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:16:34Z","message":"value2"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:16:34Z","message":"value3"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:16:34Z","message":"value1"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:16:34Z","message":"value2"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:16:43Z","message":"----------finished reading from kafka topic----------"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:22:06Z","message":"----------starting to read from kafka topic----------"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:22:06Z","message":"value1"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:22:06Z","message":"value2"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:22:06Z","message":"value3"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:22:06Z","message":"value1"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:22:06Z","message":"value2"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:22:06Z","message":"value3"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:22:06Z","message":"value1"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:22:06Z","message":"value2"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:22:06Z","message":"value3"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:22:06Z","message":"value1"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:22:06Z","message":"value2"}
+{"level":"info","AppName":"MyApp","time":"2024-01-13T08:22:06Z","message":"value3"}
